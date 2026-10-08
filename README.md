@@ -1,23 +1,22 @@
-## Hi there 👋
+# Carine Bruyndoncx
 
-<!--
-**cbruyndoncx/cbruyndoncx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I connect business operations, digital channels and technology. My experience spans a family retail business, enterprise IT, manufacturing systems and hands-on AI development.
 
-Here are some ideas to get you started:
--->
-Github asks me about these things so here goes ...
+## What I bring
 
-- 🔭 I’m currently working on Ignition and PlantApplications Quality Control implementation in a potato processing factory
-- 🌱 I’m currently learning AI agentic frameworks
-- 👯 I’m looking to collaborate on implementing AI
-- 🤔 I’m looking for help with getting opensource AI solutions
-- 💬 Ask me about databases, web tech and software engineering , retail, ecommerce,  financial markets and the future UBI
-- 📫 How to reach me: find me on linkedin
-- 😄 Pronouns: she, girlnerd
-- ⚡ Fun fact: serial communications in ms access databases first in 1993 and then again in 2017 , who would have thought ...
+- **Retail and e-commerce:** I grew up in a family-owned retail business and spent almost 15 years helping run its online and in-store operations. I established the webshop, made it responsive, and worked on Google Ads, analytics and Facebook advertising.
+- **Enterprise IT and delivery:** Across a 30+ year career, I have worked as an analyst, developer, project manager and team lead with organizations including Reuters, SWIFT, HP, Logica and Deloitte.
+- **Manufacturing systems:** More recently, I worked with MES quality processes, Ignition SCADA and shop-floor integrations. This is one chapter of my experience, alongside retail, enterprise delivery and product development.
+- **Building with AI:** I now develop AI tools and workflows, including systems built around structured business context and agent skills.
 
-## Repositories
-This account started long time ago.
-the forks and stars represent stuff I found interesting over time or I actually worked with.
-It acts as github bookmarkmanager.
-maybe I find the time to cleanup and add some lists.
+## Selected projects
+
+- [Obsidian Skills Manager](https://github.com/cbruyndoncx/obsidian-skills-manager) — an Obsidian plugin to browse, install and manage AI agent skills.
+- [AI Vampire Guard](https://github.com/cbruyndoncx/ai-vampire-guard) — a Python tool for tracking Claude Code usage and burn rate.
+- [ThirdBrain BOB](https://thirdbrain.tech) — my work on practical, governed AI systems for business operations.
+
+I’m interested in roles where business analysis, digital operations, systems integration or practical AI meet.
+
+- [LinkedIn](https://www.linkedin.com/in/carine-bruyndoncx)
+- [BRN.CX](https://brn.cx)
+- [ThirdBrain](https://thirdbrain.tech)
